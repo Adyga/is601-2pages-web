@@ -11,6 +11,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
   <component name="ProjectFrameBounds">
     <option name="x" value="172" />
     <option name="y" value="46" />
@@ -39,6 +40,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/artisan" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -54,6 +56,13 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="laravel2pages" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/artisan" scriptParameters="serve">
+      <method v="2">
+        <option name="LaunchBrowser.Before.Run" url="http://localhost:8000" />
+      </method>
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -64,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552881934463</updated>
-      <workItem from="1552881941206" duration="946000" />
+      <workItem from="1552881941206" duration="1509000" />
     </task>
     <task id="LOCAL-00001" summary="initial page setup">
       <created>1552882510774</created>
@@ -73,14 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1552882510774</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit &quot;Procfile for Heroku&quot;">
+      <created>1552882993653</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552882993653</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="946000" />
+    <option name="totallyTimeSpent" value="1509000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="321" y="27" width="1059" height="901" extended-state="0" />
+    <frame x="172" y="46" width="1059" height="901" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497532" />
@@ -107,7 +123,10 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="initial page setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial page setup" />
+    <MESSAGE value="commit &quot;Procfile for Heroku&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit &quot;Procfile for Heroku&quot;" />
   </component>
 </project>
