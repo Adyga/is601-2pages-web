@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="500dc66b-7e2d-4b18-b1ae-901b7020e2ca" name="Default Changelist" comment="commit &quot;Procfile for Heroku&quot;">
-      <change afterPath="$PROJECT_DIR$/resources/views/includes/footer.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/includes/header.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/includes/jsfooter.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/includes/menu.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" afterDir="false" />
+    <list default="true" id="500dc66b-7e2d-4b18-b1ae-901b7020e2ca" name="Default Changelist" comment="set the authentication">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -122,8 +114,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="617" />
-    <option name="y" value="41" />
+    <option name="x" value="842" />
+    <option name="y" value="74" />
     <option name="width" value="1059" />
     <option name="height" value="901" />
   </component>
@@ -245,7 +237,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552881934463</updated>
-      <workItem from="1552881941206" duration="7357000" />
+      <workItem from="1552881941206" duration="8299000" />
     </task>
     <task id="LOCAL-00001" summary="initial page setup">
       <created>1552882510774</created>
@@ -268,14 +260,29 @@
       <option name="project" value="LOCAL" />
       <updated>1552883556810</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="set the authentication">
+      <created>1552959777312</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1552959777312</updated>
+    </task>
+    <task id="LOCAL-00005" summary="set the authentication">
+      <created>1552960579689</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552960579689</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7357000" />
+    <option name="totallyTimeSpent" value="8299000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="617" y="41" width="1059" height="901" extended-state="0" />
+    <frame x="842" y="74" width="1059" height="901" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497532" />
@@ -307,7 +314,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="initial page setup" />
     <MESSAGE value="commit &quot;Procfile for Heroku&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit &quot;Procfile for Heroku&quot;" />
+    <MESSAGE value="set the authentication" />
+    <option name="LAST_COMMIT_MESSAGE" value="set the authentication" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/2pagesweb">
