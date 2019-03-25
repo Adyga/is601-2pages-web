@@ -17,7 +17,7 @@
                     You are logged in!
                         <p>
                             <br>
-                            See all your: <a href="{{ url('home') }}">home</a> <br>
+                            See all your: <a href="{{ url('/home') }}">home</a> <br>
                         </p>
 
                 </div>
