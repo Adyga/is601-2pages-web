@@ -12,9 +12,16 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('home');
 });
 
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+// Route::get('/','PagesController@index')->name('index');
+Route::get('/about','PagesController@about')->name('about');
+Route::get('/contact','PagesController@contact')->name('contact');
+
+Route::post('/contact', 'PagesController@contactStore') ->name('contactstore');
+Route::get('thankyou/{fname}','PagesController@thankyou')->name('thankyou');

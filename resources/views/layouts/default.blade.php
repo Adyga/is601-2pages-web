@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 
-@include('includes.head')
+@include('includes.header')
 <body>
 <div class="container">
     <header>
