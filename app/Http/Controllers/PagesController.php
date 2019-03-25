@@ -22,6 +22,7 @@ class PagesController extends Controller
     }
     public function contactstore(Request $request)
     {
+
         $name = $request->name;
         return redirect()->route('thankyou', ['fname' => $name]);
     }

@@ -8,7 +8,7 @@
                 <li class="breadcrumb-item"><a href="/contact">contact</a></li>
             </ul>
         </div>
-        <h1>Thank You   </h1>
+        <h1>Thank You : {{$name}}</h1>
         <p>Your message has been received!</p>
     </div>
 
